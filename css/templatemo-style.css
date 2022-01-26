@@ -157,12 +157,12 @@ p:last-child { margin-bottom: 0; }
 }
 
 
-#tm-section-1 {	background-image: url(../img/shanghai_6.jpg); }
+#tm-section-1 {	background-image: url(../img/shanghai_8.jpg); }
 #tm-section-2 {	background-image: url(../img/shanghai_7.jpg); }
 #tm-section-3 {	background-image: url(../img/shanghai_5.jpg); }
 #tm-section-4 {	background-image: url(../img/shanghai_6.jpg); }
 .tm-footer { 
-	background-image: url(../img/strip-bg-05.jpg);
+	background-image: url(../img/shanghai_9.jpg);
 	font-weight: 300;
 	display: -webkit-flex; 
 	display: -ms-flexbox; 
